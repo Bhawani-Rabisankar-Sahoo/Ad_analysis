@@ -51,5 +51,7 @@ Recommending the most relevent Advertisement to users in order to to get maximum
 - Campaign 405490 has achieved 2nd best success among all and campaign 360936 has 3rd best success among all.
 
 - The plot below shows how every campaign has performed.
+![ad-1](https://user-images.githubusercontent.com/72175654/216274749-c32098e7-a6f9-4dde-8037-fab4020312d5.png)
 
 - The plot below shows the relative succes of the campaigns than the previous year.
+![ad-2](https://user-images.githubusercontent.com/72175654/216274755-ca028065-7d9e-4d97-bace-d964bceca029.png)
