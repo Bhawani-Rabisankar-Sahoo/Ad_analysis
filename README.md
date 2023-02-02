@@ -46,17 +46,18 @@ Recommending the most relevent Advertisement to users in order to to get maximum
 
 ## Campaign analysis
 
-- Among all campaigns campaign 359520 has achieved maximum success in terms of CTR .
+- Among all campaigns campaign 359520 has reached   maximum people  .
 
-- Campaign 405490 has achieved 2nd best success among all and campaign 360936 has 3rd best success among all.
+- Campaign 405490 has achieved 2nd best success among all and campaign 360936 has 3rd best success among all in terms of reach.
 
 - The plot below shows how every campaign has performed.
-![ad-1](https://user-images.githubusercontent.com/72175654/216274749-c32098e7-a6f9-4dde-8037-fab4020312d5.png)
 
 - The plot below shows the relative success of the campaigns than the previous year.
-![ad-2](https://user-images.githubusercontent.com/72175654/216274755-ca028065-7d9e-4d97-bace-d964bceca029.png)
-
-
 
 - Relatively speaking campaigns 360936 , 396664 and 414149 performed poorly as compared to their previous campaigns.
-- It's advised that they  revert back to the previous strategies that made the  campaigns successful.
+- It's advised that they  revert back to the previous strategies that made the previous campaigns successfully reach more people.
+
+- In terms of how many people have actually clicked the advertisement campaign 405490 has performed the best and campaign 359520 performed 2nd best in terms of number of pleple clicking the advertisement as it's evident from the plot below.
+
+
+- But in terms of percentage of people clicking the advertisement compared to total number of people who saw the advertisement 405490 still performms the best with 9.13% CTR , 2nd is camaign 404347 with 7.75% CTR and 3rd is 98970 with 7.68% CTR.
