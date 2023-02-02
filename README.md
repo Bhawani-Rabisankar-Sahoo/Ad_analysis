@@ -59,4 +59,4 @@ Recommending the most relevent Advertisement to users in order to to get maximum
 
 
 - Relatively speaking campaigns 360936 , 396664 and 414149 performed poorly as compared to their previous campaigns.
-- It's advised that they  revert back to the previous strategies that made the previous campaigns successful.
+- It's advised that they  revert back to the previous strategies that made the  campaigns successful.
