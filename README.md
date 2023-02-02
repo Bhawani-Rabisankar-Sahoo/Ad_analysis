@@ -53,5 +53,10 @@ Recommending the most relevent Advertisement to users in order to to get maximum
 - The plot below shows how every campaign has performed.
 ![ad-1](https://user-images.githubusercontent.com/72175654/216274749-c32098e7-a6f9-4dde-8037-fab4020312d5.png)
 
-- The plot below shows the relative succes of the campaigns than the previous year.
+- The plot below shows the relative success of the campaigns than the previous year.
 ![ad-2](https://user-images.githubusercontent.com/72175654/216274755-ca028065-7d9e-4d97-bace-d964bceca029.png)
+
+
+
+- Relatively speaking campaigns 360936 , 396664 and 414149 performed poorly as compared to their previous campaigns.
+- It's advised that they  revert back to the previous strategies that made the previous campaigns successful.
