@@ -67,6 +67,10 @@ Recommending the most relevent Advertisement to users in order to to get maximum
 
 ![ad-3](https://user-images.githubusercontent.com/72175654/216300936-26292f91-95f5-4fd1-857a-4c31c33ad60a.png)
 
-- But in terms of percentage of people clicking the advertisement compared to total number of people who saw the advertisement 405490 still performms the best with  **9.13%** CTR , 2nd is camaign 404347 with **7.75%** CTR and 3rd is 98970 with **7.68%** CTR.
+- But in terms of percentage of people clicking the advertisement compared to total number of people who saw the advertisement 405490 still performms the best with  **9.13%** CTR , 2nd is campaign 404347 with **7.75%** CTR and 3rd is 98970 with **7.68%** CTR.
 
 ![ad-4](https://user-images.githubusercontent.com/72175654/216300941-a94b89ba-99fd-4797-84d7-a5f8fa438c91.png)
+
+## Model results
+
+I've trained a Random Forest Classifier model which successfully predicted whether the user click the advertisement or  not with **93.1%** accuracy.
