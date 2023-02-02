@@ -74,3 +74,7 @@ Recommending the most relevent Advertisement to users in order to to get maximum
 ## Model results
 
 I've trained a Random Forest Classifier model which successfully predicted whether the user click the advertisement or  not with **93.1%** accuracy.
+
+## Conclusion
+
+From the EDA we got to know that campaign 405490 has performed best in terms of Click through Rate (CTR) that is **9.13%** and we should continue to use the same strategy we've used in that campaign in order to maintain that CTR until a better model comes into action.
